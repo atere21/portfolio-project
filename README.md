@@ -1,3 +1,6 @@
+![ecommerce-pic](https://github.com/atere21/portfolio-project/assets/106532533/346d73c3-987b-489b-a74f-0785f2e0eb1b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
